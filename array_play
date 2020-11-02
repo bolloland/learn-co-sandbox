@@ -1,2 +1,5 @@
-students = ["jimmy", "poster nutbag", "icculus", "famous mockingbird", "rutherford", "tela", "wilson"]
+10.times do
+puts "Hey there, Pancho!"
+end
+
 
